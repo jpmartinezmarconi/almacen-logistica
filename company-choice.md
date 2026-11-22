@@ -1,0 +1,1 @@
+escogi trackflow por mi experiencia en logistica y almacen, creo que puede ser vital para el desarrollo de este proyecto, importante para corregir problematicas entre almacenes, y carga de stocks al momento, tambien con proyeccion a compras internacionales
